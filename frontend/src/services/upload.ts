@@ -4,9 +4,9 @@ import { API_HOST } from '../config';
 export const uploadFile = async (file: File): Promise<[Error?, Data?]> => {
     const formData = new FormData();
     formData.append('file', file);
-    console.log('API_HOST ', process.env.API_HOS);
+    console.log('API_HOST ', process.env.API_HOST);
     try {
-        const response = await fetch(`${API_HOST}/api/files`, {
+        const response = await fetch(`${process.env.API_HOST}/api/files`, {
             method: 'POST',
             body: formData,
         });

@@ -4,8 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "PORT=3000 ts-node server.ts",
-        "start": "PORT=3000 ts-node server.ts",
+        "dev": "PORT=4500 ts-node server.ts",
+        "start": "PORT=4500 ts-node server.ts",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",

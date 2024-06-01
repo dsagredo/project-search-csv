@@ -12,7 +12,7 @@ $ cd project-search-csv/
 2. Run the project with `pnpm run dev`
 ```.
 
-![Home - Teslo _ Shop](https://github.com/dsagredo/project-teslo-shop-nextjs/assets/24228373/6bf7c368-e78e-4585-95ba-e15c5833f511)
+![screen](https://github.com/dsagredo/project-search-csv/assets/24228373/7362e0ac-198b-460c-bb93-649b95510c8c)
 
 ## Deploy on Vercel
 

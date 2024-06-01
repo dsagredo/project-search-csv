@@ -4,17 +4,16 @@ The purpose of this test is to evaluate your backend and frontend development sk
 
 ## Installation
 
-````sh
+```sh
 $ git clone https://github.com/dsagredo/project-search-csv.git
 $ cd project-search-csv/
 
 1. Install dependencies with `pnpm install`
 2. Run the project with `pnpm run dev`
-```.
+```
 
-![screen](https://github.com/dsagredo/project-search-csv/assets/24228373/7362e0ac-198b-460c-bb93-649b95510c8c)
+![screen](https://github.com/dsagredo/project-search-csv/assets/24228373/9a9134be-f349-4859-8f4e-f487eac493bb)
 
 ## Deploy on Vercel
 
 https://teslo-mercado.vercel.app/
-````
